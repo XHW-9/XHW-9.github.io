@@ -16,5 +16,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Blog222</title>
+      <link>https://xhw-9.github.io/post/bb/</link>
+      <pubDate>Mon, 09 Aug 2021 15:01:12 +0800</pubDate>
+      
+      <guid>https://xhw-9.github.io/post/bb/</guid>
+      <description>hello wj!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xhw-9.github.io/post/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xhw-9.github.io/post/second/</guid>
+      <description>ihshh</description>
+    </item>
+    
   </channel>
 </rss>
